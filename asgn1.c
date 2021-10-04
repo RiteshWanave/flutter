@@ -22,7 +22,7 @@ int main(){
 
 
 
-// Q2 Write a C program to find the length of the string using pointer
+// Q2 Write a C program to find the length of the string using pointer //
 
 #include <stdio.h>
 
